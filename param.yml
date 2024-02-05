@@ -1,0 +1,14 @@
+BATCH_SIZE: 128
+DEPTH: 20
+DIM: 10
+EPOCHS: 250
+EXPANSION: 2
+HIDDEN_DIM: 128
+INCREASED: 256
+Lr: 0.0005
+NUM_CLASSES: 10
+Optim: AdamW
+SEED: 231
+Drop_out: 0.05
+name: redblue_withoutLN_231_128_128_20_maxnorm0.5_0.0005
+use_wandb: True
